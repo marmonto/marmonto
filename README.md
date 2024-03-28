@@ -1,19 +1,23 @@
 
-👋 Hi, I’m Marlon { ```@marmonto``` }.
+👋 Hi, I’m Marlon { ```@marmonto``` }. 
 
+<br />
 
-
-🔥 I’m interested in 
-    DevSecOps, and CyberSecurity
-  , SLCD
-  , Database Architecture, design, development, deployment, and administration
-    : Database engines like SQL Server, PostgreSQL, and Oracle
-  , PowerShell Automation
-  , Azure Architecture and Design - Azure DevOps
+🔥 I’m interested in <br />
+    DevSecOps, and CyberSecurity <br />
+  , SLCD <br />
+  , Database Architecture, design, development, deployment, and administration <br />
+    : Database engines like SQL Server, PostgreSQL, and Oracle <br />
+  , PowerShell Automation <br />
+  , Azure Architecture and Design - Azure DevOps <br />
   , Windows/Linux Server, Networking
-  
-🕵️ I’m playing with Python, Rust, and Git.
-    Recap Linux, Virtualization.
-  
+
+<br />
+
+🕵️ I’m playing with Python, Rust, and Git. <br />
+    Recap Linux, Virtualization. <br />
+
+<br />
+
 🔍 
 
