@@ -14,10 +14,13 @@
 
 <br />
 
-🕵️ I’m playing with Python, Rust, and Git. <br />
-    Recap Linux, Virtualization. <br />
+🕵️ I’m playing with Python, Rust <br />
+    , and Git - GitHub  <br />
+    , Recap Linux, Virtualization. <br />
 
 <br />
 
 🔍 
 
+[![Marlon's GitHub stats](https://github-readme-stats.vercel.app/api?username=marmonto)](https://github.com/anuraghazra/github-readme-stats)
+[![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marmonto)](https://github.com/anuraghazra/github-readme-stats)
