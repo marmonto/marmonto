@@ -56,7 +56,7 @@ and <br />
 </p>
 
 
-🚀 Yeah! not much here ... just launching.
+🚀 Yes, not much here yet... just launching.
 
-[![Marlon's GitHub stats](https://github-readme-stats.vercel.app/api?username=marmonto)](https://github.com/anuraghazra/github-readme-stats)
-[![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marmonto)](https://github.com/anuraghazra/github-readme-stats)
+[![Marlon's GitHub stats](https://github-readme-stats.vercel.app/api?username=marmonto&theme=transparent&show_icons=true)](https://github.com/anuraghazra/github-readme-stats&theme=transparent_icons=true)
+[![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marmonto&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
