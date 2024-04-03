@@ -1,11 +1,12 @@
 
-👋 Hello World! <br />
+```👋 Hello World!``` <br />
 👨‍🚀 I’m Marlon { @marmonto }.
 
 <br />
 
+```⌛ About me```
 <details>
-  <summary>👈(click) ✌️ A pice of history -in tec- About me ... </summary>
+  <summary>👈(click) ✌️ A pice of history -in tec- </summary>
   <br />
   <p>
   ⌛ In my beginnings at Tec, C# .Net, Java, JavaScript, T-SQL, and UML made me a Developer. <br />
@@ -71,15 +72,31 @@
 <br />
 <br />
 
+```🧰 Tools```
+
 &emsp;&emsp;[![My Skills](https://skillicons.dev/icons?i=git,visualstudio,vscode,vscodium&perline=8&theme=dark)](https://skillicons.dev)
 &emsp;&emsp;[![My Skills](https://skillicons.dev/icons?i=azure,github,gitlab&perline=8&theme=dark)](https://skillicons.dev)
 
-&emsp;&emsp;[![My Skills](https://skillicons.dev/icons?i=dotnet,java,javascript,rust,go,python&perline=8&theme=light)](https://skillicons.dev)
+```📝 Coding Languages```
+
+&emsp;&emsp;[![My Skills](https://skillicons.dev/icons?i=dotnet,java,python,javascript,rust,go&perline=8&theme=light)](https://skillicons.dev)
+
+```🌌 System's OS```
 
 &emsp;&emsp;[![My Skills](https://skillicons.dev/icons?i=windows,linux,solaris,powershell&perline=8&theme=dark)](https://skillicons.dev)
 
+```🌃 Database Engines```
+
+&emsp;&emsp;[![My Skills](https://skillicons.dev/icons?i=oracle&perline=8&theme=dark)](https://skillicons.dev)
+
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+&
+
+[![forthebadge](https://forthebadge.com/images/badges/made-with-crayons.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/powered-by-black-magic.svg)](https://forthebadge.com)
+
 <br />
 <br />
 
