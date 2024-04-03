@@ -72,6 +72,8 @@
 🚀 Yes, not much here yet... just launching.
 
 
-[![Marlon's GitHub stats](https://github-readme-stats.vercel.app/api?username=marmonto&theme=transparent&show_icons=true)](https://github.com/anuraghazra/github-readme-stats&theme=transparent_icons=true)
+[![Marlon's GitHub stats](https://github-readme-stats.vercel.app/api?username=marmonto&theme=transparent&show_icons=true&custom_title=marmonto.GitHub.Stats)](https://github.com/anuraghazra/github-readme-stats)
 [![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marmonto&theme=transparent&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Marlon's Orgs GitHub stats](https://github-readme-stats.vercel.app/api?username=marmonto&include_orgs=true&orgs=recodingcore&custom_title=marmonto.Orgs.Stats&theme=transparent&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marmonto&include_orgs=true&orgs=recodingcore&theme=transparent&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
