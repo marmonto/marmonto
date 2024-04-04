@@ -53,7 +53,9 @@
   
 </details>  
 
-  <br />
+  <br />  
+
+  ```💡 Some WIP```
 
   <p>
   🕵️ I am currently playing with tools, tecnologies and codes: <br />
@@ -63,13 +65,12 @@
   &emsp;&emsp;, Flutter for UI/UX <br />
   &emsp;&emsp;, practicing Git - GitHub <br />
   &emsp;&emsp;, Docker, Windows/Linux + Virtualization Recap.  <br />
-    
+
   &emsp;&emsp;and <br />
-  
+
   &emsp;&emsp;, Languages: English, German and French - for literature, poetry, history and culture.
   </p>
 
-<br />
 <br />
 
 ```🧰 Tools```
@@ -104,7 +105,7 @@
 🌱 If you find me useful and I can add value to your projects and we can grow together, do not hesitate in contact me.
 </p>
 
-
+<br />
 
 🚀 Yes, not much here yet... just launching.
 
@@ -115,6 +116,9 @@
 
 [![Marlon's Orgs GitHub stats](https://github-readme-stats.vercel.app/api?username=marmonto&include_orgs=true&orgs=recodingcore&custom_title=marmonto.Orgs.Stats&theme=transparent&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marmonto&include_orgs=true&orgs=recodingcore&theme=transparent&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)
+
 
 
 <!--START_SECTION:badges-->
