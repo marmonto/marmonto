@@ -10,22 +10,29 @@
 
 ``⌛ About me``
 
-Expert Database Administrator + Architect
-&emsp;SQL Developer
-&emsp;ETL Developer
-&emsp;Rusty Developer: .Net, Java, JS, UML
-&emsp;Automation Fan
+Expert Database Administrator + Architect <br />
+Software Engineering  <br />
+&emsp;UML, US, Use Cases <br />
 
-&emsp;Aspiring DevSecOps - PM
+Software Developer, <br />
+&emsp;SQL Developer <br />
+&emsp;ETL Developer <br />
+&emsp;Rusty Developer: .Net, Java, JS <br />
 
-&emsp;Agile Scrum Master and DevOps
-&emsp;CMMI Certified
+Automation Fan <br />
 
-.continuous curiosity - re.search - learning.
+Aspiring DevSecOps - PM <br />
+Team Player and Team Leader <br />
 
+Agile Scrum Master and DevOps <br />
+CMMI Certified <br />
+
+.continuous curiosity - re.search - learning. <br />
+
+<br />
 
 <details>
-  <summary>👈(click) ✌️ A pice of history -in tec- </summary>
+  <summary>👈(click) ✌️ A pice of my history -in tec- </summary>
   <br />
   <p>
   ⌛ In my beginnings at Tec, C# .Net, Java, JavaScript, T-SQL, and UML made me a Developer. <br />
