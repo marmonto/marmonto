@@ -32,11 +32,11 @@ Team Player and Team Leader <br />
 Agile Scrum Master and DevOps <br />
 CMMI Certified <br />
 
-<br />
-
 <details>
-  
-  <summary>✌️ My (~long) Trip in Tec</summary>
+
+  <summary>👁️‍🗨️ read more 💬</summary>
+
+  ![My Path](https://img.shields.io/badge/🚶%20My%20(~long%20👣)%20trip%20-in%20Tech-0033ba)
 
   <br />
 
@@ -53,8 +53,6 @@ CMMI Certified <br />
     refactor, and improve database infrastructures for different companies. <br />
    Combine my knowledge in Dev, Sec, and Ops to build and scale infrastructures.
   </p>
-
-  <br />
 
   <p>
   🤯 Each company, project, and team challenged me.  <br />
@@ -83,6 +81,8 @@ CMMI Certified <br />
 </details>
 
 <br />
+<br />
+<br />
 
 ![WIP](https://img.shields.io/badge/💡%20Work%20-in%20Progress-0033ba)
 
@@ -103,7 +103,7 @@ CMMI Certified <br />
 </p>
 
 <br />
-
+<br />
 
 
 ![Tools+Toys](https://img.shields.io/badge/🧰%20Tools-&%20Toys-0033ba)
@@ -111,11 +111,15 @@ CMMI Certified <br />
 &emsp;&emsp;[![My Skills](https://skillicons.dev/icons?i=git,visualstudio,vscode,vscodium&perline=8&theme=dark)](https://skillicons.dev)
 &emsp;&emsp;[![My Skills](https://skillicons.dev/icons?i=azure,github,gitlab&perline=8&theme=dark)](https://skillicons.dev)
 
+<br />
+<br />
 
 ![Programming_Languages](https://img.shields.io/badge/📝%20Coding-Languages-0033ba)
 
 &emsp;&emsp;[![My Skills](https://skillicons.dev/icons?i=dotnet,java,python,javascript,rust,go&perline=8&theme=light)](https://skillicons.dev)
 
+<br />
+<br />
 
 ![SystemOS](https://img.shields.io/badge/🌌%20System-%20OS-0033ba)
 
@@ -125,19 +129,30 @@ CMMI Certified <br />
 
 &emsp;&emsp;[![My Skills](https://skillicons.dev/icons?i=powershell&perline=8&theme=dark)](https://skillicons.dev)
 
+<br />
+<br />
 
-![hola](https://img.shields.io/badge/🌃%20Database-%20Engines-0033ba)
+![Database Engines](https://img.shields.io/badge/🌃%20Database-%20Engines-0033ba)
+
+<br />
+<br />
+
+<!-- https://github.com/Ileriayo/markdown-badges -->
 
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-[![My Skills](https://skillicons.dev/icons?i=oracle&perline=8&theme=dark)](https://skillicons.dev)
 
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+
+![Hyperledger](https://img.shields.io/badge/hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white)
 
 <br />
 <br />
 
 <p>
-🌱 If you find me useful and I can add value to your projects and we can grow together, do not hesitate in contact me.
+  🌱 If you find me useful and I can add value to your projects and we can grow together, do not hesitate in contact me.
 </p>
 
 <br />
@@ -149,16 +164,26 @@ CMMI Certified <br />
 [![Marlon's GitHub stats](https://github-readme-stats.vercel.app/api?username=marmonto&theme=transparent&show_icons=true&custom_title=marmonto.GitHub.Stats)](https://github.com/anuraghazra/github-readme-stats)
 [![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marmonto&theme=transparent&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+<!-- Not Working: Trying stats about my changes in repos Orgs where I belong -->
+<!-- 
 [![Marlon's Orgs GitHub stats](https://github-readme-stats.vercel.app/api?username=marmonto&include_orgs=true&orgs=recodingcore&custom_title=marmonto.Orgs.Stats&theme=transparent&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marmonto&include_orgs=true&orgs=recodingcore&theme=transparent&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+-->
 
 ![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)
+![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)
 
 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-crayons.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-black-magic.svg)](https://forthebadge.com)
 
+
+<!-- https://github.com/ryo-ma/github-profile-trophy -->
+[![trophy](https://github-profile-trophy.vercel.app/?username=marmonto&row=2&column=5&theme=oldie)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+<!-- https://github.com/antonkomarev/github-profile-views-counter -->
+<!-- ![](https://komarev.com/ghpvc/?username=marmonto&color=brightgreen&style=for-the-badge&abbreviated=true) -->
 
 <!--START_SECTION:badges-->
 
